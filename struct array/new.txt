@@ -1,0 +1,15 @@
+student's name Asad
+age 19
+height 5.800000
+student's name Qasim
+age 19
+height 5.100000
+student's name hamza
+age 20
+height 5.900000
+student's name omar
+age 20
+height 5.900000
+student's name faiq
+age 19
+height 5.100000
